@@ -1,18 +1,15 @@
 <template>
   <!-- <vueValidation /> -->
-  <veeValidationRule/>
+  <compostionAPI />
 </template>
 
 <script>
-//import vueValidation from "./components/vueValidation.vue";
-import veeValidationRule from "./components/veeValidationRule.vue";
-
+import compostionAPI from "./components/CompositionAPI/index.vue";
 
 export default {
   name: "App",
   components: {
-//    vueValidation,
-    veeValidationRule
+    compostionAPI,
   },
 };
 </script>
