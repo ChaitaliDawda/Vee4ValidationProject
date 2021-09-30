@@ -1,5 +1,5 @@
 <template>
-  <h2>Validation Using UP</h2>
+  <h2>Validation Using Yup</h2>
 </template>
 
 <script>
